@@ -1,0 +1,29 @@
+			title Pancakes
+
+Fridge->Microwave: 3tbsp butter
+Fridge->Small bowl: 1.25c 4% Milk
+Fridge->Small bowl: 1 Egg, Beaten
+Microwave->Small bowl: Melted Butter
+note over Small bowl: Gently combine
+Pantry->Big Bowl: 1.5 cups of Sifted Flour
+
+Pantry->Big Bowl: 1tsp Salt
+Pantry->Big Bowl: 1tsp Baking Soda
+Pantry->Big Bowl: 2tsp Cream of Tartar
+Pantry->Big Bowl: 1tbsp Caster Sugar
+
+Big Bowl->Big Bowl: Sift
+
+Small bowl->Big Bowl: Mix liquid into dry ingredients
+
+note over Griddle: Set to 190C / 375F
+note over Big Bowl: Let batter rest for 5-10 mins 
+
+Big Bowl->Griddle: 1/3c batter per pancake
+note over Griddle: Cook until bubbles form and edges are firm
+Griddle->Griddle: Flip
+note over Griddle: Cook 2 mins.
+
+Griddle->Plate: 
+note left of Plate: Serve with butter and syrup or jam.
+
